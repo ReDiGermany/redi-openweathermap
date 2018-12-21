@@ -1,0 +1,37 @@
+{
+  "name": "redi-openweathermap",
+  "version": "1.0.0",
+  "description": "Openweathermap integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReDiGermany/redi-openweathermap.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "request",
+    "openweathermap",
+    "redi",
+    "redigermany",
+    "max",
+    "kruggel",
+    "real",
+    "time",
+    "weather",
+    "forecast"
+  ],
+  "author": "ReDiGermany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReDiGermany/redi-openweathermap/issues"
+  },
+  "homepage": "https://github.com/ReDiGermany/redi-openweathermap#readme",
+  "dependencies": {
+    "events": "^3.0.0",
+    "request": "^2.88.0"
+  }
+}
